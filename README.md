@@ -1,4 +1,9 @@
-Full Stack Developer with 2 years of experience. She has professional skills in front-end developer, client-side web development with JAVASCRIPT and React framework, as well as server-side, and is a professional in creating web applications.
+Highly skilled web programmer with an extensive toolkit of web
+development skills, from front-end to back-end technologies. Proficient
+in crafting user-friendly websites and web applications that combine
+aesthetics with functionality. Accomplished supervisor with a proven
+track record of guiding and mentoring novice students in web
+development, fostering their growth and proficiency
 
 
 - 
