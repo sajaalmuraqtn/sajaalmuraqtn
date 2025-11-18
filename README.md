@@ -10,7 +10,6 @@ I build responsive web apps and robust mobile apps with a focus on performance, 
 - **Web Development**: Full-stack applications with Node.js & React.js  
 - **Mobile Development**: Cross-platform apps using Flutter  
 - **API Integration**: RESTful APIs & third-party services  
-- **Maintenance & Optimization**: App performance improvement & bug fixing  
 
 ---
 
@@ -49,13 +48,13 @@ A cross-platform chatting application with real-time messaging and a clean moder
 ---
 
 ### 5️⃣ **Betweener App**
-🔗 **Live Demo:** https://drive.google.com/file/d/1OFJZwHzGK6ItF3Lre7Qv4i5q0zDxhL5N/view?usp=drive_link  
+🔗 **Live Demo:** https://drive.google.com/drive/folders/1Enkh_zKPSR8YCnNjUgyigLllIz0GC9-s?usp=drive_link  
 A modern social networking and link-sharing application built with Flutter.
 
 ---
 
 ### 6️⃣ **Quran App (Nour App)**
-🔗 **Live Demo:** https://drive.google.com/file/d/1OFJZwHzGK6ItF3Lre7Qv4i5q0zDxhL5N/view?usp=drive_link  
+🔗 **Live Demo:** https://drive.google.com/drive/folders/1RlWhpiiUPews1g3BZahcsFBtgYr3caZO?usp=drive_link  
 A spiritual Flutter app providing access to the Holy Quran, prayer times, and daily Azkar, designed with smooth UX and Material Design.
 
 ---
