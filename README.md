@@ -62,6 +62,7 @@ A spiritual Flutter app providing access to the Holy Quran, prayer times, and da
 ### 7️⃣ **Shopping App (Electrical Store)**
 🔗 **Live Demo:** https://drive.google.com/drive/folders/1P6HWt1SEKlIlLH3Q35dfp5sAq9CSBu5u?usp=drive_link  
 A full mobile application for managing a products store.
+
 ---
 
 ## 📂 Useful Links
